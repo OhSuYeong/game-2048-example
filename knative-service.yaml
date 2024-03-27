@@ -7,6 +7,6 @@ spec:
     spec:
       containers:
         # Replace with your docker registry info
-        - image: krmp-d2hub-idock.9rum.cc/dev-test/repo_e1c1e1c3a921
+        - image: pengbai/docker-supermario
           ports:
             - containerPort: 80
